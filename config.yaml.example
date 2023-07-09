@@ -1,0 +1,4 @@
+repos:
+  - owner/repo1
+  - owner/repo2
+token: your-token
